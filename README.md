@@ -2,4 +2,4 @@
 
 Free to use DeepLearning models build in PyTorch
 
-- [Cat & Dog Classifier](Cat_Dog_Classifier/README.md)
+- [Cat & Dog Classifier](Cat_Dog_Classifier)
